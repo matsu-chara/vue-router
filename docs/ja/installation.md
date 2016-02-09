@@ -27,7 +27,7 @@ Vue.use(VueRouter)
 
 ### Dev ブランチ
 
-最新の開発版を使用シたい場合は、GitHub から直接 clone して `vue-router` をあなた自身でビルドしなければなりません。
+最新の開発版を使用したい場合は、GitHub から直接 clone して `vue-router` をあなた自身でビルドしなければなりません。
 
 ``` bash
 git clone https://github.com/vuejs/vue-router.git node_modules/vue-router
